@@ -1,6 +1,6 @@
 👋 Hi, I’m Diana!  
 
-📚 Passionate reader, book lover, and always curious! 
+📚 Passionate reader, book lover, and always curious!  
 Welcome to my **Books** folder!I’ve created several small projects that combine my passion for reading with my skills in **data analytics** and **programming**.
 
 
