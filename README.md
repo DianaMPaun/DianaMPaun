@@ -7,7 +7,7 @@ I’ve created several small projects that combine my passion for reading with m
 
 🚀 Fast learner with a strong interest in Data Analytics, which has helped me develop new skills and explore exciting areas. 
 
-🎮 I enjoy creating small games like Sudoku, Scissors-Paper-Rock, Hangman, and more!  
+🎮 I enjoy creating small games like Sudoku, Rock-Paper-Scissors, Hangman, and more!  
 Check out my **GAMES** folder for fun projects.
-- **Scissors- Paper -Rock** ([Scissors-Paper-Rock](https://github.com/DianaMPaun/GAMES/tree/main/Scissors-Paper-Rock))
+- **Rock - Paper - Scissors** ([Rock-Paper-Scissors](https://github.com/DianaMPaun/GAMES/tree/main/Scissors-Paper-Rock))
 - **Escape Room**([Escape Room](https://github.com/DianaMPaun/GAMES/tree/main/Escape%20Room))
