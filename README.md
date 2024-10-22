@@ -3,6 +3,7 @@
 📚 Passionate reader, book lover, and always curious!  
 Welcome to my **BOOKS** folder!   
 I’ve created several small projects that combine my passion for reading with my skills in **data analytics** and **programming**.
+- **Final Project**([Book recomendation model and genre prediction])
 
 
 🚀 Fast learner with a strong interest in Data Analytics, which has helped me develop new skills and explore exciting areas. 
