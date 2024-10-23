@@ -8,7 +8,7 @@ I’ve created several small projects that combine my passion for reading with m
 
 🚀 Fast learner with a strong interest in Data Analytics, which has helped me develop new skills and explore exciting areas.
 Check out my **COURSES** folder for useful courses!
-- **
+- **Hello-git** ([Hello-git](https://github.com/DianaMPaun/hello-git))
 - **30-Days-Of-Python** ([30-Days-Of-Python](https://github.com/DianaMPaun/30-Days-Of-Python))
 
 🎮 I enjoy creating small games like Sudoku, Rock-Paper-Scissors, Hangman, and more!  
