@@ -12,3 +12,4 @@ I’ve created several small projects that combine my passion for reading with m
 Check out my **GAMES** folder for fun projects.
 - **Rock - Paper - Scissors** ([Rock-Paper-Scissors](https://github.com/DianaMPaun/GAMES/tree/main/Scissors-Paper-Rock))
 - **Escape Room**([Escape Room](https://github.com/DianaMPaun/GAMES/tree/main/Escape%20Room))
+- **Sudoku**([Sudoku](https://github.com/DianaMPaun/GAMES/tree/main/Sudoku))
