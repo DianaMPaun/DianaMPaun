@@ -6,9 +6,9 @@ I’ve created several small projects that combine my passion for reading with m
 - **Final Project**([Books recomendation model and books genre prediction model](https://github.com/DianaMPaun/BOOKS/tree/main/FINAL-PROJECT))
 
 
-🚀 Fast learner with a strong interest in Data Analytics, which has helped me develop new skills and explore exciting areas. 
+🚀 Fast learner with a strong interest in Data Analytics, which has helped me develop new skills and explore exciting areas.
 Check out my **COURSES** folder for useful courses!
--
+- **
 - 
 
 🎮 I enjoy creating small games like Sudoku, Rock-Paper-Scissors, Hangman, and more!  
