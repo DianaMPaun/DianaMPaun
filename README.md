@@ -7,6 +7,9 @@ I’ve created several small projects that combine my passion for reading with m
 
 
 🚀 Fast learner with a strong interest in Data Analytics, which has helped me develop new skills and explore exciting areas. 
+Check out my **COURSES** folder for useful courses!
+-
+- 
 
 🎮 I enjoy creating small games like Sudoku, Rock-Paper-Scissors, Hangman, and more!  
 Check out my **GAMES** folder for fun projects.
