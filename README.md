@@ -16,3 +16,12 @@ Check out my **GAMES** folder for fun projects.
 - **Rock - Paper - Scissors** [Rock-Paper-Scissors](https://github.com/DianaMPaun/GAMES/tree/main/Scissors-Paper-Rock)
 - **Escape Room** [Escape Room](https://github.com/DianaMPaun/GAMES/tree/main/Escape%20Room)
 - **Sudoku** [Sudoku](https://github.com/DianaMPaun/GAMES/tree/main/Sudoku)
+
+
+
+
+
+
+
+
+[![](https://visitcount.itsvg.in/api?id=dianampaun&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
