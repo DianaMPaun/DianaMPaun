@@ -22,6 +22,7 @@ Check out my **GAMES** folder for fun projects.
 - **Rock - Paper - Scissors** [Rock-Paper-Scissors](https://github.com/DianaMPaun/GAMES/tree/main/Scissors-Paper-Rock)
 - **Escape Room** [Escape Room](https://github.com/DianaMPaun/GAMES/tree/main/Escape%20Room)
 - **Sudoku** [Sudoku](https://github.com/DianaMPaun/GAMES/tree/main/Sudoku)
+- **Guess the Number or Letter game** [Guess a Number or Letter](https://github.com/DianaMPaun/GAMES/tree/main/Guess%20the%20Number%20or%20Letter%20game)
 
 
 
