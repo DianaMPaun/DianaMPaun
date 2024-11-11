@@ -19,7 +19,7 @@ Check out my **COURSES** folder for useful courses!
 
 🎮 I enjoy creating small games like Sudoku, Rock-Paper-Scissors, Hangman, and more!  
 Check out my **GAMES** folder for fun projects.
-- **Rock - Paper - Scissors** [Rock-Paper-Scissors](https://github.com/DianaMPaun/GAMES/tree/main/Scissors-Paper-Rock)
+- **Rock - Paper - Scissors** [Rock-Paper-Scissors](https://github.com/DianaMPaun/GAMES/tree/main/Rock-Paper-Scissors)
 - **Escape Room** [Escape Room](https://github.com/DianaMPaun/GAMES/tree/main/Escape%20Room)
 - **Sudoku** [Sudoku](https://github.com/DianaMPaun/GAMES/tree/main/Sudoku)
 - **Guess the Number or Letter game** [Guess a Number or Letter](https://github.com/DianaMPaun/GAMES/tree/main/Guess_game)
