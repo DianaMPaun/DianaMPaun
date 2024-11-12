@@ -13,6 +13,7 @@ I’ve created several small projects that combine my passion for reading with m
 Check out my **COURSES** folder for useful courses!
 - **Hello-git** [Hello-git](https://github.com/DianaMPaun/hello-git)
 - **30-Days-Of-Python** [30-Days-Of-Python](https://github.com/DianaMPaun/30-Days-Of-Python)
+- **Hello-sql** [Hello-sql](https://github.com/DianaMPaun/hello-sql)
 
 
 --- 
