@@ -15,7 +15,7 @@ Check out my **COURSES** folder for useful courses!
 - **Git** [Curso de GIT y GITHUB DESDE CERO - Midulive](http://midu.link/git)
 - **30-Days-Of-Python** [30-Days-Of-Python](https://github.com/DianaMPaun/30-Days-Of-Python)
 - **Hello-sql** [Hello-sql](https://github.com/DianaMPaun/hello-sql)
-- **SQL**[SQL desde cero - Midulive](http://midu.link/sql)
+- **SQL** [SQL desde cero - Midulive](http://midu.link/sql)
 
 
 --- 
