@@ -12,8 +12,10 @@ I’ve created several small projects that combine my passion for reading with m
 🚀 Fast learner with a strong interest in Data Analytics, which has helped me develop new skills and explore exciting areas.
 Check out my **COURSES** folder for useful courses!
 - **Hello-git** [Hello-git](https://github.com/DianaMPaun/hello-git)
+- **Git** [Curso de GIT y GITHUB DESDE CERO - Midulive](http://midu.link/git)
 - **30-Days-Of-Python** [30-Days-Of-Python](https://github.com/DianaMPaun/30-Days-Of-Python)
 - **Hello-sql** [Hello-sql](https://github.com/DianaMPaun/hello-sql)
+- **SQL**[SQL desde cero - Midulive](http://midu.link/sql)
 
 
 --- 
