@@ -34,7 +34,7 @@ Check out my **GAMES** folder for fun projects.
 
 Welcome to my **Projects** repository! This is a collection of diverse data-focused and coding projects I’ve created, each designed to explore, analyze, and solve interesting problems using various tools and techniques.
 - **Spotify** [Spotify Songs Analysis and Prediction](https://github.com/DianaMPaun/PROJECTS/tree/main/Spotify)
-- **Spotify-SQL**[Spotify Songs SQL Project]()
+- **Spotify-SQL** [Spotify Songs SQL Project](https://github.com/DianaMPaun/PROJECTS/tree/main/SPOTIFY-SQL)
 
 ---
 
