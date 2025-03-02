@@ -5,7 +5,7 @@
 📚 Passionate reader, book lover, and always curious!  
 Welcome to my **BOOKS** folder!   
 I’ve created several small projects that combine my passion for reading with my skills in **data analytics** and **programming**.
-- **Final Project** [Books recomendation model and books genre prediction model](https://github.com/DianaMPaun/BOOKS/tree/main/FINAL-PROJECT)
+- **Final Project Ironhack Data Bootcaamp** [Books recomendation model and books genre prediction model](https://github.com/DianaMPaun/BOOKS/tree/main/FINAL-PROJECT)
 
 ---
 
