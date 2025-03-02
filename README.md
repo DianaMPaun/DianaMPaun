@@ -25,6 +25,7 @@ Check out my **COURSES** folder for useful courses!
 Check out my **GAMES** folder for fun projects.
 - **Rock - Paper - Scissors** [Rock-Paper-Scissors](https://github.com/DianaMPaun/GAMES/tree/main/Rock-Paper-Scissors)
 - **Escape Room** [Escape Room](https://github.com/DianaMPaun/GAMES/tree/main/Escape%20Room)
+- **Escape Room - The Mansion** [Escape Romm - The Mansion](https://github.com/DianaMPaun/GAMES/tree/main/Escape%20Room%20-%20THE%20MANSION)
 - **Sudoku** [Sudoku](https://github.com/DianaMPaun/GAMES/tree/main/Sudoku)
 - **Guess the Number or Letter game** [Guess a Number or Letter](https://github.com/DianaMPaun/GAMES/tree/main/Guess_game)
   
